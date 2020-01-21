@@ -14,15 +14,15 @@
 
 ### Experience
 
-- Clinical Account Specialist
-- [Project 2 Title](http://example.com/)
+- Clinical Account Specialist, Biosense Webster, a Johnson and Johnson company
+- 
 
 ---
 
 ### Research
 - Johns Hopkins University Computational Cardiology Lab: [Dr. Natalia Trayanova](www.trayanovalab.org)
 - Microfluidics MEMS Lab (Dr. Ashley Kim)
-- 
+- Aitchison Lab
 
 
 ---
