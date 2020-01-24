@@ -1,11 +1,10 @@
 title: Zina Kurian # your name (or website title) here
-logo: "/images/JHU.png?raw=true" # your photo (or logo) here
-background-color: #fff
+logo: "/images/JHU.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <h5>My Professional Portfolio </h5>
+  My Professional Portfolio 
   <br>
   Medical Device Engineer
- <h4> <a href = "/personal">More About Me</a></h4>
+ <a href = "/personal">More About Me</a>
   
   <br>
   <a href = "mailto: zinakurian@gmail.com">zinakurian@gmail.com</a>
