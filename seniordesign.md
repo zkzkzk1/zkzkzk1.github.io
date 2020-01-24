@@ -5,4 +5,6 @@ To combat the issue of phosphate contamination, widespread testing is necessary 
 
 <a href = "https://scholarcommons.scu.edu/bioe_senior/50/">PDF of Thesis</a>
 <br>
+<p align="center">
 <img src = "/images/seniordesign.jpg">
+  </p>
