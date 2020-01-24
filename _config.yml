@@ -1,12 +1,13 @@
 title: Zina Kurian # your name (or website title) here
-logo: "/images/JHU.png?raw=true width = 100" # your photo (or logo) here
-background-color: #fff
+logo: "/images/JHU.png?raw=true" # your photo (or logo) here
+background-color: #E6E6FA
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  My professional portfolio 
+  <h5>My Professional Portfolio </h5>
   <br>
-  <a href = "/personal">A little more about me</a>
+  Medical Device Engineer
+ <h4> <a href = "/personal">More About Me</a></h4>
   
-  <br><br>
+  <br>
   <a href = "mailto: zinakurian@gmail.com">zinakurian@gmail.com</a>
   <br>
   <a href = "mailto: zkurian2@jhu.edu">zkurian2@jhu.edu</a>
@@ -14,7 +15,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://twitter.com/letsmapit" class="twitter-follow-button" data-show-count="false">Follow @letsmapit</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   
   
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/zinakurian">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
