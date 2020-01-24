@@ -13,6 +13,9 @@ We created a novel system for aiding the visually impaired with obstacle detecti
 <center>
   
 ![](/images/smallshoe.jpg)
+
+<img width="300" alt="portfolio_view" src="/images/IMG_3854.jpg">
+
 </center>
 
 
