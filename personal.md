@@ -11,5 +11,3 @@ Born and raised in the Greater Seattle area, Zina attended Santa Clara Universit
 
 ## Interests: ##
 Paddle boarding on Lake Washington, indoor cycling, travel
-
-</center>
