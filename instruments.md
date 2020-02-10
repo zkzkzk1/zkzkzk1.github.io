@@ -7,8 +7,8 @@
 Americans spend over 50 billion dollars annually on treatment for back pain. One large cause of that is slouching. Others suffer from muscular disorders. There is a significant need for unobtrustive monitoring of posture. I created a wearable posture sensor for detection slouching or kyphosis. This novel object overcomes the limitations of prior art through the following constituent elements: integration into athletic garments or stretch sensing fabrics, real-time feedback appropriate to the approximate level of bending, multiple sensors to detect changes in posture as a body unit, shoulder placement in addition to spine, additional inertial measurement unit to detect primary axial change in forward or back tilt, multi-inch sensor transducer along entire spine, secondary feedback with LED on front of garment, and multiple feedback points of vibrational motor on each shoulder. Mainly, the feedback mechanism of this technology has purposeful continuous feedback. While prior art includes single buzz of one motor, this technology has multiple vibrational motors that will vibrate and continue to vibrate until the posture deviation is corrected. In this way, the user is ensured to make correction. 
 
 <center>
-  <video width="320" height="240" controls>
-      <source src=”/WearableShirt.mov” type=video/ogg>
+  <video width="320" height="340" controls>
+      <source src=”/images/WearableShirt.mov” type=video/ogg>
     </video>
   </center>
 
