@@ -12,7 +12,7 @@ Americans spend over 50 billion dollars annually on treatment for back pain. One
 We created a novel system for aiding the visually impaired with obstacle detection. This is in the form of a pair of technology enhanced smart shoes. The shoes are fitted with multiple ultrasonic distance sensors that measure the distance of an object through sound wave travel. Ultrasonic sensors are known to have a long range of sensing and are inexpensive, compared to other types of sensors, such as radar or infrared/optical. The smart shoes provide feedback to the wearer on objects in close proximity. <br>
 <center>
   
-<img width = "300" alt = portfolio_view" src="/images/smallshoe.jpg">
+<img width = "300" alt = "portfolio_view" src="/images/smallshoe.jpg">
 
 <img width="300" alt="portfolio_view" src="/images/IMG_3854.jpg">
 
