@@ -34,5 +34,4 @@
 ---
 ### Interests
 <center>
-<img src = "/images/venn.jpeg" width=200>
-  </center>
+<img src= "/images/venn.jpeg" width="200"></center>
