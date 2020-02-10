@@ -3,17 +3,17 @@ logo: "/images/JHU.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   
   
-  <a href = "/personal"> Learn more About Me</a>
+  <center> <a href = "/personal"> Learn more About Me</a>
   <br>
   <a href="https://twitter.com/letsmapit" class="twitter-follow-button" data-show-count="false">Follow @letsmapit</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   <br>
   <b> <center> <img src ="/images/scu.jpeg" width="30" height="50">
   <img src="/images/jhulogo.png" width="80" height = "50">
-   <img src ="/images/jnjlogo.jpg" width="50" height="50"><br></center>
+   <img src ="/images/jnjlogo.jpg" width="50" height="50"><br>
   Medical Device Industry Engineer</b><br>
   
-  <br>
-  <a href="https://www.linkedin.com/in/zinakurian/">View My LinkedIn Profile</a> 
+  <br></center>
+  <a href="https://www.linkedin.com/in/zinakurian/">View My LinkedIn Profile</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
