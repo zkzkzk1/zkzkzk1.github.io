@@ -22,7 +22,7 @@
 ---
 
 ### Research
-- Johns Hopkins University Computational Cardiology Lab: [Dr. Natalia Trayanova](www.trayanovalab.org)
+- Johns Hopkins University Computational Cardiology Lab: [Dr. Natalia Trayanova](https://www.trayanovalab.org)
 - Microfluidics MEMS Lab (Dr. Ashley Kim) (MEMS, electrochemical sensors, electrochemical printing)
 - Aitchison Lab, ISB & CIDR (ImageJ, robotic liquid handler system)
 - Kineta Inc (mammlian cell culture, IACUC, media preparation)
