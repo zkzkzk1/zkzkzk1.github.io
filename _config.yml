@@ -1,14 +1,17 @@
 title: Zina Kurian # your name (or website title) here
 logo: "/images/JHU.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Welcome to my portfolio! 
-  <br>
+  
+  
   <a href = "/personal"> Learn more About Me</a>
   <br>
   <a href="https://twitter.com/letsmapit" class="twitter-follow-button" data-show-count="false">Follow @letsmapit</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   <br>
-  <b> Medical Device Industry Engineer</b><br>
-  <b> SCU. JHU. JNJ. </b>
+  <b> Santa Clara University.<br>
+  Johns Hopkins University. <br> 
+  Johnson & Johnson. <br>
+  Medical Device Industry Engineer</b><br>
+  
   <br>
   <a href="https://www.linkedin.com/in/zinakurian/">View My LinkedIn Profile</a> 
   
