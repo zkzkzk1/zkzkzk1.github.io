@@ -33,4 +33,6 @@
 
 ---
 ### Interests
-![Zina's Focus areas](/images/venn.jpeg)
+<center>
+<img src = "/images/venn.jpeg" width=200>
+  </center>
