@@ -9,8 +9,10 @@
 ---
 [Santa Clara University - Senior Design](/seniordesign)
 
-
 ---
+[Precision Care Medicine - Machine Learning](/precision)
+
+
 
 ### Experience
 
