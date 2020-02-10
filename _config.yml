@@ -1,12 +1,15 @@
 title: Zina Kurian # your name (or website title) here
 logo: "/images/JHU.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Welcome to my portfolio 
-  <br><br>
+  Welcome to my portfolio! 
+  <br>
+  <a href = "/personal.md"> Learn more About Me</a>
+  <br>
   <a href="https://twitter.com/letsmapit" class="twitter-follow-button" data-show-count="false">Follow @letsmapit</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br>
+  <b> Medical Device Industry Engineer</b>
+  <br>
+  <a href="https://www.linkedin.com/in/zinakurian/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
