@@ -13,8 +13,10 @@ We would like to develop a predictive, early-warning model for respiratory decom
 Our goal is to build a predictive model for the likelihood of ventilator associated complications in ICU patients. In order to achieve this result, we will leverage data from an open-access database and utilize machine learning techniques to evaluate the information. Our results have the potential to inform clinicians about critical interventions during the ICU stay ofmechanically ventilated patients. 
 The model will calculate a risk score for likelihood to enter the disease state. With a clinically significant early warning system on the order of six hours, the monitoring physician will have this risk score, in addition to other normal variables, as evidence to make changes to treatment protocol if necessary. Clinicians will be able to better attend to patients before the obvious signs of decompensation. 
 <br><br>
-***Skills***
-MIMIC III database, PostgreSQL, BigQuery, Python, time-series data
+
 <center>
 <img src="/images/mimic.jpg" width="400">
-></center>
+</center>
+***Skills*** 
+
+MIMIC III database, PostgreSQL, BigQuery, Python, time-series data
