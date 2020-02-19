@@ -33,4 +33,7 @@
 ---
 ### Interests
 <center>
+  SaMD<br>
+  Product Design<br>
+  Clinical Use Cases<br>
 <img src= "/images/venn.jpeg" width="200"></center>
