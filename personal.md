@@ -15,4 +15,6 @@ What does a Clinical Account Specialist do?
 **Interests:**
 Paddle boarding on Lake Washington, indoor cycling, travel
 <br>
-***Servant Leadership***
+<center> 
+  <i>Servant Leadership</i>
+  </center>
