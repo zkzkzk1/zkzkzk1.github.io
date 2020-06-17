@@ -35,5 +35,39 @@
 <center>
   SaMD<br>
   Product Design<br>
-  Clinical Use Cases<br>
+
 <img src= "/images/venn.jpeg" width="200"></center>
+
+---
+### Here's Where I Can Contribute:
+- Design Requirements
+- Customer Requirements
+- Clinical Use Cases
+- Procedure Development
+- Solidworks CAD drawings
+- Risk Analysis/Management
+- Project Management
+- Process Improvement
+- Test Methods
+- DFM/DFX
+- Troubleshooting/Machine Shop
+- VOC analysis
+- Design Review
+- Verification & Validation
+- Report Generation
+- Clinical Data Reports
+- Statistical Analysis
+
+
+---
+### Professional Development:
+Completed:
+AI Programming in Python - Udacity<br>
+<br>
+In Progress (2020):<br>
+- FDA Regulations for Medical Devices - Johns Hopkins
+- Lean Six Sigma Black Belt - Linkedin
+- Statistical Inference - Coursera JHU
+
+
+
