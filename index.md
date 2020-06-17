@@ -40,11 +40,13 @@
 - Shiny apps
 - Java
 - HTML/CSS
+- SQL/psql/Postgres
+- BigQuery
 - Machine Learning (GLM, Decision Trees)
 - Pandas/NumPy/Scikit Learn/Scipy
 - Jupyter Notebooks
 - version control
-- 
+
 
 ---
 ### Interests
