@@ -31,10 +31,26 @@
 - Northwest Association for Biomedical Research, High School - Asthma (AP Biology)
 
 ---
+### Skills/Languages
+- Solidworks CAD
+- Fritzing
+- MATLAB
+- Python
+- R
+- Shiny apps
+- Java
+- HTML/CSS
+- Machine Learning (GLM, Decision Trees)
+- Pandas/NumPy/Scikit Learn/Scipy
+- Jupyter Notebooks
+- version control
+- 
+
+---
 ### Interests
 <center>
-  SaMD<br>
-  Product Design<br>
+
+
 
 <img src= "/images/venn.jpeg" width="200"></center>
 
@@ -42,6 +58,7 @@
 ### Here's Where I Can Contribute:
 - Design Requirements
 - Customer Requirements
+- Product Design and Development
 - Clinical Use Cases
 - Procedure Development
 - Solidworks CAD drawings
@@ -57,6 +74,7 @@
 - Report Generation
 - Clinical Data Reports
 - Statistical Analysis
+- SaMD
 
 
 ---
@@ -68,6 +86,7 @@ In Progress (2020):<br>
 - FDA Regulations for Medical Devices - Johns Hopkins
 - Lean Six Sigma Black Belt - Linkedin
 - Statistical Inference - Coursera JHU
+- ISO 13485:2016
 
 
 
