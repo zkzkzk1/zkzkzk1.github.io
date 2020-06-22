@@ -58,20 +58,25 @@
 
 ---
 ### Here's Where I Can Contribute:
+- Design Controls
 - Design Requirements
-- Customer Requirements
+- Failure Mode Engineering Analysis
+- Post Market Regulatory Surveillance
+- Root Cause Analysis
 - Product Design and Development
 - Clinical Use Cases
 - Procedure Development
 - Solidworks CAD drawings
-- Risk Analysis/Management
+- Risk Management
 - Project Management
 - Process Improvement
 - Test Methods
 - DFM/DFX
 - Troubleshooting/Machine Shop
+- 3D Printing
 - VOC analysis
 - Design Review
+- Protocol Development for Validation
 - Verification & Validation
 - Report Generation
 - Clinical Data Reports
