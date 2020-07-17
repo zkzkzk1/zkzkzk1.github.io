@@ -60,7 +60,7 @@
 ### Here's Where I Can Contribute:
 - Design Controls
 - Design Requirements
-- Failure Mode Engineering Analysis
+- Failure Modes Effects Analysis
 - Post Market Regulatory Surveillance
 - Root Cause Analysis
 - Product Design and Development
