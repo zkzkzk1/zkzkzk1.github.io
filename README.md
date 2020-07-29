@@ -38,7 +38,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ___
 
 
-[![HitCount](http://hits.dwyl.com/zkzkzk1/zkzkzk1/zkzkzk1githubio.svg)](http://hits.dwyl.com/zkzkzk1/zkzkzk1/zkzkzk1githubio)
+[![HitCount](http://hits.dwyl.com/zkzkzk1/zkzkzk1githubio.svg)](http://hits.dwyl.com/zkzkzk1/zkzkzk1githubio)
 
 
 
