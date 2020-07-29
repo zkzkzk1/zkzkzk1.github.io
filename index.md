@@ -6,6 +6,9 @@
 
 [Precision Care Medicine - Machine Learning](/precision)
 
+
+[Machine Learning Project Dashboard -- Clinical Implementation Mockup using Shiny Apps](https://zina-kurian.shinyapps.io/ProjectDS4BME/)
+
 ---
 
 [Biomedical Design Course Projects](/instruments)
