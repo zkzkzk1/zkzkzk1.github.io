@@ -49,6 +49,7 @@
 - Pandas/NumPy/Scikit Learn/Scipy
 - Jupyter Notebooks
 - version control
+- Minitab
 
 
 ---
@@ -65,6 +66,8 @@
 - Design Requirements
 - Failure Modes Effects Analysis
 - Post Market Regulatory Surveillance
+- Sustaining Engineering
+- QA: NCs/CAPAs
 - Root Cause Analysis
 - Product Design and Development
 - Clinical Use Cases
@@ -97,6 +100,7 @@ In Progress (2020):<br>
 - Lean Six Sigma Black Belt - Linkedin
 - Statistical Inference - Coursera JHU
 - ISO 13485:2016
+- AI In Medicine 
 
 
 
