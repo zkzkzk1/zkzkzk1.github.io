@@ -2,6 +2,10 @@
 
 ---
 
+##### *Hello! I am a biomedical engineer. You can find me deep in the details of projects, solving problems, and thinking outside the box. I am a goal-oriented thinker, and not one to give up easily. Most importantly, I am passionate about health technology that can solve unmet medical needs.*
+
+---
+
 ### Projects
 
 [Precision Care Medicine - Machine Learning](/precision)
